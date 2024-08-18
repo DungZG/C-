@@ -1,0 +1,110 @@
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV_Shop.NewFolder.FormLogin.resources
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.csproj.GenerateResource.cache
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.AssemblyInfoInputs.cache
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.AssemblyInfo.cs
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.csproj.CoreCompileInputs.cache
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\TaoSV Shop.exe
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\TaoSV Shop.deps.json
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\TaoSV Shop.runtimeconfig.json
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\TaoSV Shop.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\TaoSV Shop.pdb
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\refint\TaoSV Shop.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.pdb
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.genruntimeconfig.cache
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\ref\TaoSV Shop.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\System.Management.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.csproj.AssemblyReference.cache
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV_Shop.Properties.Resources.resources
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.csproj.Up2Date
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV_Shop.Main.Base.resources
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV_Shop.Main.UC_GioiThieu.resources
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV_Shop.Main.UC_BanHang.resources
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV_Shop.Main.UC_BCTK.resources
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV_Shop.Main.UC_KhachHang.resources
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Doan1\TaoSV Shop\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV_Shop.Main.UC_SanPham.resources
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\TaoSV Shop.exe
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\TaoSV Shop.deps.json
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\TaoSV Shop.runtimeconfig.json
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\TaoSV Shop.dll
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\TaoSV Shop.pdb
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\Guna.UI2.dll
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\System.Management.dll
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Code\project_doan1\TaoSV Shop\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.csproj.AssemblyReference.cache
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV_Shop.NewFolder.FormLogin.resources
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV_Shop.Main.Base.resources
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV_Shop.Main.UC_BanHang.resources
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV_Shop.Main.UC_BCTK.resources
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV_Shop.Main.UC_GioiThieu.resources
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV_Shop.Main.UC_KhachHang.resources
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV_Shop.Main.UC_SanPham.resources
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV_Shop.Properties.Resources.resources
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.csproj.GenerateResource.cache
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.AssemblyInfoInputs.cache
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.AssemblyInfo.cs
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.csproj.CoreCompileInputs.cache
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.csproj.Up2Date
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.dll
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\refint\TaoSV Shop.dll
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.pdb
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\TaoSV Shop.genruntimeconfig.cache
+E:\Code\project_doan1\TaoSV Shop\obj\Debug\net8.0-windows\ref\TaoSV Shop.dll
